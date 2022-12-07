@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bartosz "MrYtQuistonePL" Halwa. I'm a developer and manager at Pro Magic Gamers Group (PMGG).
+I'm Bartosz "Neekostone" Halwa. I'm a developer and manager at Pro Magic Gamers Group (PMGG).
 
 <!--
 **bartoszhalwa/bartoszhalwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
